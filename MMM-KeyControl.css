@@ -1,0 +1,27 @@
+
+.MMM-KeyControl {
+	width: 390px;
+	height: 45px;
+	margin-right: 0px;
+	margin-left: 125px;
+}
+
+.MMM-KeyControl .button {
+  	color: green;               /* Header color. Default is red. */
+	position: absolute;
+ 	margin-left: 125px;
+        border-style: inset;
+        border-width: 1px;
+	text-align: center;
+	font-size: 25px;
+  	width: 30px;
+	height: 40px;
+}
+
+.MMM-KeyControl .buttonMenu {
+	display: block;
+        border-style: inset;
+        border-width: 1px;
+	width: 390px;
+	height: 40px;
+}
